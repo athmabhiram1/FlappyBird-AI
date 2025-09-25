@@ -161,6 +161,7 @@ Verify the project works correctly:
 ```bash
 python test_components.py
 ```
+<<<<<<< HEAD
 
 This runs tests on all major components:
 - Game logic
